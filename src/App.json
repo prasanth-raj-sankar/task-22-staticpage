@@ -1,0 +1,16 @@
+[
+    {
+      "icon": "https://www.guvi.in/build/q-CDE1FhG5.webp",
+      "title": "Self Paced Courses",
+      "description": "Learn & Upskill via Online Courses",
+      "link": "/offers",
+      "linkText": "Take a Look"
+    },
+    {
+      "icon": "https://www.guvi.in/build/q-CDE1FhG5.webp",
+      "title": "LIVE Classes",
+      "description": "Live Classes offering Guaranteed Job Placement Support",
+      "link": "/offers",
+      "linkText": "Take a Look"
+    }
+  ]
